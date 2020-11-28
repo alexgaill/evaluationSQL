@@ -25,10 +25,10 @@
 
 ## Partie 2: Pour une entreprise, vous devez créer une base de donnée nommée powersouffle et contenant les informations suivantes:
 
-les user(firstname, lastname, email, password, created_at),
-les products(name, description, buyPrice, sellPrice),
-les commandes(orders)(orderedAt, shippedAt, status),
-les notes des produits,
-les commentaires sur les produits (title, content, createdAt)
+- les user(firstname, lastname, email, password, created_at),
+- les products(name, description, buyPrice, sellPrice),
+- les commandes(orders)(orderedAt, shippedAt, status),
+- les notes des produits,
+- les commentaires sur les produits (title, content, createdAt)
 
 ### Ecrivez les requêtes complètes de la création de la base de données à la création des tables et aux requêtes d'insertion, de données pour chaque table. (Attention toutes les tables ne sont pas précisées il faudra que vous réfléchissiez aux liens entre les tables.)(Pensez aux primary keys et foreign keys).
