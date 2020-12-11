@@ -32,3 +32,7 @@
 - les commentaires sur les produits (title, content, createdAt)
 
 ### Ecrivez les requêtes complètes de la création de la base de données à la création des tables et aux requêtes d'insertion, de données pour chaque table. (Attention toutes les tables ne sont pas précisées il faudra que vous réfléchissiez aux liens entre les tables.)(Pensez aux primary keys et foreign keys).
+
+#### Le rendu se fait par mail alexandre.gaillot@jedy.com
+
+Bon courage ;)
